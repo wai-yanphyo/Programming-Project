@@ -1,2 +1,5 @@
-# Programming-Project
-For my progamming project- Sherry FitzGerald Lettings
+Company Name: Sherry FitzGerald Lettings
+
+
+
+Description: Sherry Fitzzerld Lattings is a well -established property rental and management company in Ireland, mainly focused on residential rental. The company offers a complete suit of services including several offices across the country and a central location in Dublin, including property listing, tenant screening, lease agreement, rent collection and property maintenance coordination. Sherry Fitzgerald Lattings manages hundreds of rental properties in urban and suburban areas, maintaining the ongoing relationship with both landlords and tenants. Currently, the company depends on a spreadsheet, manual records and a combination of standalone systems to manage operations, which is often the result of delays in tracking the rented status and tenant information in real -time, the result of delays, communication intervals and difficulties. To improve operational efficiency and service quality, the company is demanding implementation of an integrated rent managem
